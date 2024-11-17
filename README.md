@@ -1,1 +1,3 @@
-# Amazon-Clone is the repogeteri first in github
+# Amazon-Clone
+<br>
+is the repogeteri first in github
